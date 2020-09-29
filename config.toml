@@ -1,0 +1,40 @@
+baseurl = "/"
+languageCode = "en-us"
+theme = "hello-friend"
+paginate = 3
+googleAnalytics = "UA-38258901-6"
+
+[params]
+  defaultTheme = "light"
+
+[languages]
+  [languages.en]
+    title = "sulaiman.dev"
+    subtitle = "My Software Development Journal"
+    keywords = ""
+    copyright = ""
+    menuMore = "Show more"
+    writtenBy = "Written by"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+    newerPosts = "Newer posts"
+    olderPosts = "Older posts"
+    minuteReadingTime = "min read"
+    dateFormatSingle = " "
+    dateFormatList = " "
+    # leave empty to disable, enter display text to enable
+    # lastModDisplay = ""
+
+    [languages.en.params.logo]
+      logoText = "/home/sulaiman $"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
