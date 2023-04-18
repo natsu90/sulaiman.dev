@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-theme = "hello-friend"
+# theme = "hello-friend"
 paginate = 3
 googleAnalytics = "UA-38258901-6"
 
