@@ -41,6 +41,6 @@ googleAnalytics = "UA-38258901-6"
         
 [module]
  # this is needed when you fetch the theme as a submodule to your repo.
- # replacements = "github.com/panr/hugo-theme-hello-friend -> themes/hello-friend"
+ replacements = "github.com/panr/hugo-theme-hello-friend -> themes/hello-friend"
 [[module.imports]]
  path = 'hello-friend'
