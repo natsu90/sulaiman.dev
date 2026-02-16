@@ -1,8 +1,12 @@
 baseurl = "/"
 languageCode = "en-us"
 theme = "hello-friend"
-paginate = 3
-googleAnalytics = "UA-38258901-6"
+[services]
+  [services.googleAnalytics]
+    ID = "UA-38258901-6"
+
+[pagination]
+pageSize = 3
 
 [params]
   defaultTheme = "light"
