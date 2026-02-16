@@ -3,27 +3,38 @@ title: "About"
 authorbox: false
 comments: false
 ---
-![Nara Park, Osaka, Japan 2019](/images/nara-park.JPG "Deer is my spirit animal")
 
-Hi there, I am **Sulaiman Sudirman**, also called *Leman*, or *Solomon* by my non-Malaysian friends. I am a well-rounded [software engineer](https://1x.engineer/), who is currently based in **Auckland, New Zealand**.
+{{< carousel >}}
+- ![](/images/IMG_3570.jpg)
+- ![](/images/IMG_3620.jpg)
+- ![](/images/IMG_4179.jpg)
+- ![](/images/IMG_4277.jpg)
+- ![](/images/IMG_6029.JPG)
+- ![](/images/IMG_4886.jpg)
+- ![](/images/IMG_4977.jpg)
+- ![](/images/IMG_7700.jpg)
+- ![](/images/IMG_0247.jpg)
+- ![](/images/DSC05202.jpg)
+- ![](/images/IMG_1466.jpg)
+- ![](/images/IMG_1777.jpg)
+- ![](/images/IMG_3328.jpg)
+- ![](/images/IMG_9330.jpg)
+- ![](/images/IMG_9881.jpg)
+- ![](/images/IMG_0087.jpg)
+{{< /carousel >}}
 
-Weirdly I am not into software development until my second year of study (Bachelor of IT, Science and System Management) at **National University of Malaysia** (2008—2011). It has become my passion ever since then, and I was that nerd guy in a class who people will look for help about coding assignment.
+Hi there! I'm **Sulaiman Sudirman**, a well-rounded [software engineer](https://1x.engineer/) currently based in **Kuala Lumpur, Malaysia**.
 
-I am mostly doing backend development using **PHP** language, though I am also interested to learn other backend technologies, like **NodeJS** and **Go**. 
+I've been focusing on PHP/Laravel development for the past 6 years, after working in full-stack development since the start of my career. I also love dabbling with other technologies, so you'll find me working with different tech stacks from time to time.
 
-I also have some decent skills in other field of development that made me a full fledged full stack developer, such as frontend, database, infrastructure, mobile, and even client relationship development.
+I graduated from **National University of Malaysia** in 2011 and worked in Malaysia for 6 years before moving to Singapore in 2017. After 2 years with a Yishun-based company, I relocated to New Zealand in 2019, where I spent 2 years in Auckland and obtained permanent residency.
 
-Outside of work, sometimes you would find me in tech meetups, to mingle with fellow nerds, or hackathons, just to get my million dollar ideas out of my head.
+In 2021, I landed a remote position with a US-based company, which allowed me to travel extensively around the globe for 4 years—until I was laid off in December 2025. I'm now back in Malaysia, putting down roots.
 
-Other than tech, I love to do hiking and become one with mother nature. I also love to play badminton so I can pretend to be a ninja with my quick reflex. 
+**Beyond tech**, I love hiking and connecting with nature, playing badminton, reading manga, and watching sci-fi and horror movies.
 
-I also love reading Japanese comics and animations, usually Shounen genre. And watching sci-fi and horror movies.
+**You can also find me on:**
 
-My motto in life: Dare to try, dare to fail.
-
-You also can find me in:
-
-* [Other personal website with a cooler domain name](https://sulai.mn)
-* [Linkedin](https://www.linkedin.com/in/sulaiman-sudirman)
+* [LinkedIn](https://www.linkedin.com/in/sulaiman-sudirman)
 * [GitHub](https://github.com/natsu90)
 * [Stack Overflow](https://stackoverflow.com/u/1109004)
