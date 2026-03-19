@@ -21,6 +21,8 @@ comments: false
 - ![](/images/IMG_9330.jpg)
 - ![](/images/IMG_9881.jpg)
 - ![](/images/IMG_0087.jpg)
+- ![](/images/mario-jump.jpg)
+- ![](/images/hooker-lake-3.jpeg)
 {{< /carousel >}}
 
 Hi there! I'm **Sulaiman Sudirman**, a well-rounded [software engineer](https://1x.engineer/) currently based in **Kuala Lumpur, Malaysia**.
